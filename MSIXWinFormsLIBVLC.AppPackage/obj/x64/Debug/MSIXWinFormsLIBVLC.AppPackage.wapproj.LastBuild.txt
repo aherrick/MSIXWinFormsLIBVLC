@@ -1,0 +1,15 @@
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC.AppPackage\Images\SplashScreen.scale-200.png
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC.AppPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC.AppPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC.AppPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC.AppPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC.AppPackage\Images\StoreLogo.png
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC.AppPackage\Images\Wide310x150Logo.scale-200.png
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC.AppPackage\bin\x64\Debug\resources.pri
+C:\Users\aherrick\.nuget\packages\libvlcsharp\3.6.5\lib\net6.0-windows7.0\LibVLCSharp.dll
+C:\Users\aherrick\.nuget\packages\libvlcsharp.winforms\3.6.5\lib\net6.0-windows7.0\LibVLCSharp.WinForms.dll
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC\bin\Debug\net6.0-windows\MSIXWinFormsLIBVLC.deps.json
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC\obj\Debug\net6.0-windows\apphost.exe
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC\bin\Debug\net6.0-windows\MSIXWinFormsLIBVLC.runtimeconfig.json
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC\bin\Debug\net6.0-windows\MSIXWinFormsLIBVLC.dll
+C:\Users\aherrick\Desktop\MSIXWinFormsLIBVLC\MSIXWinFormsLIBVLC\bin\Debug\net6.0-windows\MSIXWinFormsLIBVLC.pdb
